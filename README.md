@@ -1,2 +1,2 @@
 # Python---projects
-Python project and internship tasks
+Python Project And Internship Tasks
